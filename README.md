@@ -6,6 +6,7 @@ V. Isualize has given myself and Omar a brand-new assignment. Using your Python 
 Having merged the ride and city datasets, I calculated the total rides grouped by city type, driver counts by city type, and total fares by city type. 
 That allowed me to calculate the avgerage fare by city type and average fare per driver by city type. 
 The summary statistics resulting from these calculations are provided below. 
+
 ![Pyber_Ride_summary](https://github.com/cfusco77/PyBer_Analysis/blob/main/Resources/Pyber_Ride_Summary.png)
 
 ## Results 
